@@ -1,2 +1,8 @@
-# terraform-aws-production-infrastructure
-Production-ready AWS infrastructure using Terraform.
+terraform-aws-production-infrastructure
+│
+├── modules
+├── ec2
+├── rds
+├── vpc
+├── security-groups
+└── main.tf
